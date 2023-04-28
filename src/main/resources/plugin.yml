@@ -1,0 +1,11 @@
+name: MainSystem
+version: '${project.version}'
+main: com.qm.mainsystem.MainSystem
+api-version: 1.19
+
+commands:
+  물:
+    aliases: ["물","anf","water"]
+  inv:
+  plreload:
+    aliases: ["플러그인 리로드","pluginreload"]
